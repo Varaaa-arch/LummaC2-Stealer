@@ -20,7 +20,7 @@ The analysis is structured using the **Lockheed Martin Cyber Kill Chain®** fram
 
 ---
 
-## ⚡ The Cyber Kill Chain Breakdown
+## The Cyber Kill Chain Breakdown
 This project dissects the attack into 7 critical stages:
 
 1.  **Reconnaissance:** Identification of distribution points (cracked software sites, streaming portals).
