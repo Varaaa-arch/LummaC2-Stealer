@@ -1,17 +1,17 @@
-# LummaC2-Stealer: Fake CAPTCHA Campaign Analysis 🛡️
+# LummaC2-Stealer: Fake CAPTCHA Campaign Analysis 
 
 ![Malware-Analysis](https://img.shields.io/badge/Analysis-Malware-red)
 ![Framework](https://img.shields.io/badge/Framework-Cyber--Kill--Chain-blue)
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-green)
 
-## 📌 Project Overview
+## Project Overview
 This repository contains a comprehensive security analysis of the **Lumma Stealer** (LummaC2) distribution campaign. Specifically, it focuses on the "Fake CAPTCHA" social engineering technique—a sophisticated method used to trick users into executing malicious PowerShell scripts manually.
 
 The analysis is structured using the **Lockheed Martin Cyber Kill Chain®** framework to provide a systematic breakdown of the attack lifecycle.
 
 ---
 
-## 🔍 What is Lumma Stealer?
+## What is Lumma Stealer?
 **Lumma Stealer** is a high-demand *Infostealer* sold on underground forums. It targets sensitive data, including:
 * **Browser Data:** Saved passwords, autofill info, and credit card details.
 * **Session Cookies:** Bypassing Multi-Factor Authentication (MFA).
@@ -33,13 +33,14 @@ This project dissects the attack into 7 critical stages:
 
 ---
 
-## 📑 Full Technical Article
+## Full Technical Article
 For a detailed step-by-step breakdown and mitigation strategies, please read the full report here:
-👉 **[Read Full Analysis (Lumma-Analysis.md)](./Bahasa-Indonesia/Lumma-analysis.md)**
+* [Baca semua analysis (Lumma-analysis-id.md)](./Bahasa-Indonesia/Lumma-analysis-id.md)
+* [Read Full anlysis (Lumma-analysis-eng.md)](./English-Language/Lumma-analysis-eng.md)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 This content is for **educational and cybersecurity awareness purposes only**. Any information provided here should not be used for malicious activities. The author is not responsible for any misuse of the information provided.
 
 ---
